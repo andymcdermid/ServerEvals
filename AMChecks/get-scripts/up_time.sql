@@ -1,0 +1,1 @@
+select crdate FROM sysdatabases WHERE NAME='tempdb'

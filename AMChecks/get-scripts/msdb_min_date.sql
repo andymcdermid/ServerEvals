@@ -1,0 +1,1 @@
+select min(backup_finish_date) OldestBackupRecord from msdb..backupset
